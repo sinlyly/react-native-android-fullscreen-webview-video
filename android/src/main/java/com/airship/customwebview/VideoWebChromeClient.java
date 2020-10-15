@@ -3,7 +3,7 @@ package com.airship.customwebview;
 import android.app.Activity;
 import android.content.pm.ActivityInfo;
 import android.graphics.Color;
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 import android.view.Gravity;
 import android.view.View;
 import android.view.ViewGroup;
